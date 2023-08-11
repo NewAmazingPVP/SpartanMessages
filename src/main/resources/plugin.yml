@@ -1,0 +1,4 @@
+name: SpartanMessages
+version: '${project.version}'
+main: mc.spartanmessages.SpartanMessages
+api-version: 1.18
